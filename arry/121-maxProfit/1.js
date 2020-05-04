@@ -18,31 +18,16 @@ var arr2 = [10, 4, 2, 1];
  */
 var maxProfit = function (prices) {
     let maxprofit = 0; // 最大收益
-    let minPrice = Math.min(...prices);  // 找出数组中最小元素
-    let minIndex = prices.indexOf(minPrice); // 找出最小元素的位置
-
-    if (minIndex == prices.length - 1){
-        prices.pop(minIndex);
-        let minPrice2 = Math.min(...prices);
-        let minIndex2 = prices.indexOf(minPrice2);
-        for (let i = minIndex2; i < prices.length; i++) {
-            if ((prices[i] - minPrice2) > maxprofit) {
-               maxprofit = prices[i] - minPrice2;
-           }
-       }
-       return maxprofit
+    let minPrice = Infinity;  // 提前设置一个比数组中任何一个元素都大的数
+    for(let i = 0; i < prices.length; i++){
+        if( prices[i] < minPrice ){
+            minPrice = prices[i];
+        }
+        if((prices[i] - minPrice )> maxprofit){
+            maxprofit = prices[i] - minPrice;
+        }
     }
-    
-    else{
-        for (let i = minIndex; i < prices.length; i++) {
-            if ((prices[i] - minPrice) > maxprofit) {
-               maxprofit = prices[i] - minPrice;
-           }
-       }
-       return maxprofit
-    }
-
-
+    return maxprofit;
 };
 
 
@@ -52,5 +37,7 @@ var prices3 = [2, 1, 4];
 var prices4 = [2, 4, 1]
 
 var prices5 = [3,2,6,5,0,3];
+console.log(maxProfit(prices));
 console.log(maxProfit(prices5));
+
 
