@@ -1,6 +1,6 @@
 
 /**
- * 解法二 余数法
+ * 解法三 字符串操作
  * @param {number[]} digits
  * @return {number[]}
  */

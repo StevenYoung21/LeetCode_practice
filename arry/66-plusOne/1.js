@@ -15,13 +15,13 @@ var plusOne = function(digits) {
 
         if(stack.length == 1){ // 栈底元素需要进位时 
 
-            if( stack[0] + 1 == 10){ // 栈底元素为9
+            if( stack[0]  == 9){ // 栈底元素为9
                 if( i == 0){    //  元素全为9的情况
                     newArr.unshift(0);
-                    stack = [1];
+                    stack[0] = 1;
                 }else{
                     newArr.unshift(0); // 元素不全为9 的情况
-                    stack = []; // 清空栈
+                    // stack = []; // 清空栈
                 }
             }
             else {
