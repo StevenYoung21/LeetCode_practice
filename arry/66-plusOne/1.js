@@ -1,4 +1,5 @@
 /**
+ * 解法一 栈
  * @param {number[]} digits
  * @return {number[]}
  */
