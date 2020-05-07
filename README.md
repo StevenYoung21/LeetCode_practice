@@ -11,8 +11,9 @@ LeetCode算法练习
     - mst-58-reverseLeftWords
 
 ## 字符串
-    - 344-reverseString
     - 7-reverse
+    - 344-reverseString
+    - 387-firstUniqChar
 ## 动态规划
     - 70-climbStairs
     - 121-maxProfit
