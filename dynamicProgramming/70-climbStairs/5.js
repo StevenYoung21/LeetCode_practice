@@ -1,4 +1,5 @@
-function f(n){
+
+var climbStairs = function(n) {
     if (n==1) return 1;
     if (n==2) return 2;
     
@@ -12,5 +13,5 @@ function f(n){
         pre = ret;
     }
     return ret;
-}
+};
 console.log(f(100));
