@@ -18,6 +18,7 @@ LeetCode算法练习
 ## 数学类
     - 13-romanToInt
     - 204-countPrimes
+    - 362-isPowerOfThree
     - 412-FizzBuzz
 
 ## 动态规划
