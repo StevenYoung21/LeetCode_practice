@@ -1,5 +1,4 @@
-/**
- *  动态规划
+/*
  * 
  * @param {number} n
  * @return {number}
