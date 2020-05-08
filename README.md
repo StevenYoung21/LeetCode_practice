@@ -14,6 +14,10 @@ LeetCode算法练习
     - 7-reverse
     - 344-reverseString
     - 387-firstUniqChar
+## 数学类
+    - 204-countPrimes
+    - 412-FizzBuzz
+
 ## 动态规划
     - 70-climbStairs
     - 121-maxProfit
