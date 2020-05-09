@@ -12,6 +12,8 @@ LeetCode算法练习
 
 ## 字符串
     - 7-reverse
+    - 125-isPalindrome
+    - 242-isAnagram
     - 344-reverseString
     - 387-firstUniqChar
     
