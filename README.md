@@ -23,6 +23,9 @@ LeetCode算法练习
     - 362-isPowerOfThree
     - 412-FizzBuzz
 
+## 排序和搜索
+    - 88-merge
+
 ## 动态规划
     - 70-climbStairs
     - 121-maxProfit
