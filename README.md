@@ -6,6 +6,7 @@ LeetCode算法练习
     - 66-plusOne
     - 121-maxProfit
     - 136-singleNumber
+    - 189-rotate
     - 202-isHappy
     - 271-containsDuplicate
     - mst-58-reverseLeftWords
