@@ -9,6 +9,7 @@ LeetCode算法练习
     - 189-rotate
     - 202-isHappy
     - 271-containsDuplicate
+    - 283-moveZeroes
     - mst-58-reverseLeftWords
 
 ## 字符串
