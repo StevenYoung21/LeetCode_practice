@@ -11,16 +11,17 @@ var moveZeroes = function(nums) {
         if (nums[i] == 0){
             nums.splice(i,1);
             nums0++;
+            i--;
         }
     }
 
-    // while( nums0 > 0){
-    //     nums.push(0);
-    //     nums0--;
-    // }
+    while( nums0 > 0){
+        nums.push(0);
+        nums0--;
+    }
 
     return nums;
 };
 
-var arr = [0,0,1];
+var arr = [0,1,0,3,12];
 console.log(moveZeroes(arr));
