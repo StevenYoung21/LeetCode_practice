@@ -14,10 +14,12 @@ LeetCode算法练习
 
 ## 字符串
     - 7-reverse
+    - 20-isValid
     - 125-isPalindrome
     - 242-isAnagram
     - 344-reverseString
     - 387-firstUniqChar
+    - 461-hammingDistance
     
 ## 数学类
     - 13-romanToInt
