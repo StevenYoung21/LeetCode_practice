@@ -19,13 +19,14 @@ LeetCode算法练习
     - 242-isAnagram
     - 344-reverseString
     - 387-firstUniqChar
-    - 461-hammingDistance
     
 ## 数学类
     - 13-romanToInt
     - 204-countPrimes
     - 362-isPowerOfThree
     - 412-FizzBuzz
+    - 461-hammingDistance
+
 
 ## 排序和搜索
     - 88-merge
