@@ -29,30 +29,41 @@ var addBinary = function(a, b) {
 
     let i = 0;
     let endArr = [];
-    let state = [0];
+    let state = 0;
 
     while ( i < arrA.length && i < arrB.length){
 
-        if(arrA[i]+arrB[i]+state < 2 ){
+        if(arrA[i]+arrB[i]+state === 0 ){
             endArr.push(0);
+            state = 0;
             i++;
-        }else if (arrA[i]+arrB[i]+state == 2){
-            endArr.push(0);
-            state = [1];
-            i++;
-        }else{
+        }
+        else if(arrA[i]+arrB[i]+state === 1){
             endArr.push(1);
-            state = [1];
+            state = 0;
+            i++;
+        }
+        else if (arrA[i]+arrB[i]+state === 2){
+            endArr.push(0);
+            state = 1;
+            i++;
+        }else {
+            endArr.push(1);
+            state = 1;
             i++;
         }
      
     }
     
+    if(state === 1){
+        endArr.push(1);
+    }
 
-    return [arrA,arrB,endArr];
+
+    return  endArr.reverse().join('');
   
 };
 
-var a = '11';
-var b = '1';
+var a = '1010';
+var b = '1011';
 console.log(addBinary(a,b));
