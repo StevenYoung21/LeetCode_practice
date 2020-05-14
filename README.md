@@ -3,6 +3,7 @@ LeetCode算法练习
 ## 数组类
     - 1-twoSum
     - 26-removeDuplicates
+    - 27-removeElement
     - 66-plusOne
     - 121-maxProfit
     - 136-singleNumber
@@ -14,6 +15,7 @@ LeetCode算法练习
 
 ## 字符串
     - 7-reverse
+    - 14-longestCommonPrefix
     - 20-isValid
     - 125-isPalindrome
     - 242-isAnagram
@@ -21,7 +23,9 @@ LeetCode算法练习
     - 387-firstUniqChar
     
 ## 数学类
+    - 9-isPalindrome
     - 13-romanToInt
+    - 67-addBinary
     - 204-countPrimes
     - 362-isPowerOfThree
     - 412-FizzBuzz
