@@ -11,6 +11,7 @@ LeetCode算法练习
     - 202-isHappy
     - 271-containsDuplicate
     - 283-moveZeroes
+    - 1431-kidsWithCandies
     - mst-58-reverseLeftWords
 
 ## 字符串
