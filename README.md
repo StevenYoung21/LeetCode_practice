@@ -7,6 +7,7 @@ LeetCode算法练习
     - 66-plusOne
     - 121-maxProfit
     - 136-singleNumber
+    - 169-majorityElement
     - 189-rotate
     - 202-isHappy
     - 271-containsDuplicate
