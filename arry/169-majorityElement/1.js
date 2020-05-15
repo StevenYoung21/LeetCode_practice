@@ -4,7 +4,7 @@
  */
 var majorityElement = function(nums) {
 
-    let target = Math.ceil(nums.length / 2) ;
+    // let target = Math.ceil(nums.length / 2) ;
 
     nums.sort((a,b)=>a-b);
 
@@ -32,7 +32,7 @@ var majorityElement = function(nums) {
     let maxIndex = b.indexOf(Math.max(...b));
     let maxNum = a[maxIndex];
 
-return [maxIndex,maxNum]
+return maxNum;
     
 };
 
