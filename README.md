@@ -13,6 +13,7 @@ LeetCode算法练习
     - 271-containsDuplicate
     - 283-moveZeroes
     - 1431-kidsWithCandies
+    - 1441-buildArray
     - mst-58-reverseLeftWords
 
 ## 字符串
