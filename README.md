@@ -28,7 +28,7 @@ LeetCode算法练习
     - 344-reverseString
     - 387-firstUniqChar
     
-## 数学类 （7）
+## 数学类 （8）
     - 9-isPalindrome
     - 13-romanToInt
     - 67-addBinary
@@ -36,7 +36,7 @@ LeetCode算法练习
     - 362-isPowerOfThree
     - 412-FizzBuzz
     - 461-hammingDistance
-
+    - 1342-numberOfSteps
 
 ## 排序和搜索 
     - 88-merge
