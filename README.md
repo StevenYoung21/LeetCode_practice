@@ -1,6 +1,7 @@
 # LeetCode_practice
 LeetCode算法练习
-## 数组类
+
+## 数组类 （15）
     - 1-twoSum
     - 26-removeDuplicates
     - 27-removeElement
@@ -18,7 +19,7 @@ LeetCode算法练习
     - 5413-arrangeWords
     - mst-58-reverseLeftWords
 
-## 字符串
+## 字符串 （7）
     - 7-reverse
     - 14-longestCommonPrefix
     - 20-isValid
@@ -27,7 +28,7 @@ LeetCode算法练习
     - 344-reverseString
     - 387-firstUniqChar
     
-## 数学类
+## 数学类 （7）
     - 9-isPalindrome
     - 13-romanToInt
     - 67-addBinary
@@ -37,10 +38,11 @@ LeetCode算法练习
     - 461-hammingDistance
 
 
-## 排序和搜索
+## 排序和搜索 
     - 88-merge
 
-## 动态规划
+## 动态规划 （3）
+    - 53-maxSubArray
     - 70-climbStairs
     - 121-maxProfit
 
