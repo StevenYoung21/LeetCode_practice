@@ -14,6 +14,8 @@ LeetCode算法练习
     - 283-moveZeroes
     - 1431-kidsWithCandies
     - 1441-buildArray
+    - 5412-busyStudent
+    - 5413-arrangeWords
     - mst-58-reverseLeftWords
 
 ## 字符串
