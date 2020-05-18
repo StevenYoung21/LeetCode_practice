@@ -1,7 +1,7 @@
 # LeetCode_practice
 LeetCode算法练习
 
-## 数组类 （15）
+## 数组类 （16）
     - 1-twoSum
     - 26-removeDuplicates
     - 27-removeElement
@@ -13,13 +13,14 @@ LeetCode算法练习
     - 202-isHappy
     - 271-containsDuplicate
     - 283-moveZeroes
+    - 1010-numPairsDivisibleBy60
     - 1431-kidsWithCandies
     - 1441-buildArray
     - 5412-busyStudent
     - 5413-arrangeWords
     - mst-58-reverseLeftWords
 
-## 字符串 （7）
+## 字符串 （8）
     - 7-reverse
     - 14-longestCommonPrefix
     - 20-isValid
@@ -27,6 +28,7 @@ LeetCode算法练习
     - 242-isAnagram
     - 344-reverseString
     - 387-firstUniqChar
+    - 520-detectCapitalUse
     
 ## 数学类 （8）
     - 9-isPalindrome
@@ -41,7 +43,7 @@ LeetCode算法练习
 ## 排序和搜索 
     - 88-merge
 
-## 动态规划 （3）
+## 动态规划 （4）
     - 53-maxSubArray
     - 70-climbStairs
     - 121-maxProfit
