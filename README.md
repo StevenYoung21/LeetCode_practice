@@ -14,13 +14,14 @@ LeetCode算法练习
     - 271-containsDuplicate
     - 283-moveZeroes
     - 1010-numPairsDivisibleBy60
+    - 1229-replaceElements
     - 1431-kidsWithCandies
     - 1441-buildArray
     - 5412-busyStudent
     - 5413-arrangeWords
     - mst-58-reverseLeftWords
 
-## 字符串 （8）
+## 字符串 （10）
     - 7-reverse
     - 14-longestCommonPrefix
     - 20-isValid
@@ -29,6 +30,8 @@ LeetCode算法练习
     - 344-reverseString
     - 387-firstUniqChar
     - 520-detectCapitalUse
+    - 680-validPalindrome
+    - 709-toLowerCase
     
 ## 数学类 （8）
     - 9-isPalindrome
