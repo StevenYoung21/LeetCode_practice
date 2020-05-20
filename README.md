@@ -1,7 +1,7 @@
 # LeetCode_practice
 LeetCode算法练习
 
-## 数组类 （16）
+## 数组类 （17）
     - 1-twoSum
     - 26-removeDuplicates
     - 27-removeElement
@@ -13,6 +13,7 @@ LeetCode算法练习
     - 202-isHappy
     - 271-containsDuplicate
     - 283-moveZeroes
+    - 414-thirdMax
     - 1010-numPairsDivisibleBy60
     - 1229-replaceElements
     - 1431-kidsWithCandies
