@@ -32,6 +32,7 @@ LeetCode算法练习
     - 344-reverseString
     - 387-firstUniqChar
     - 520-detectCapitalUse
+    - 541-reverseStr
     - 680-validPalindrome
     - 709-toLowerCase
     
