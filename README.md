@@ -1,7 +1,7 @@
 # LeetCode_practice
 LeetCode算法练习
 
-## 数组类 （17）
+## 数组类 （20）
     - 1-twoSum
     - 26-removeDuplicates
     - 27-removeElement
@@ -23,7 +23,7 @@ LeetCode算法练习
     - 5413-arrangeWords
     - mst-58-reverseLeftWords
 
-## 字符串 （10）
+## 字符串 （11）
     - 7-reverse
     - 14-longestCommonPrefix
     - 20-isValid
