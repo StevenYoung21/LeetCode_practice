@@ -8,6 +8,7 @@
 示例:
 
 输入: s = "abcdefg", k = 2
+           abcd efg 
 输出: "bacdfeg"
  
 
