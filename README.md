@@ -14,6 +14,7 @@ LeetCode算法练习
     - 215-findKthLargest
     - 271-containsDuplicate
     - 283-moveZeroes
+    - 287-findDuplicate
     - 414-thirdMax
     - 1010-numPairsDivisibleBy60
     - 1229-replaceElements
@@ -22,6 +23,7 @@ LeetCode算法练习
     - 5412-busyStudent
     - 5413-arrangeWords
     - mst-58-reverseLeftWords
+    - mst-16.01-swapNumbers
 
 ## 字符串 （11）
     - 7-reverse
@@ -44,6 +46,8 @@ LeetCode算法练习
     - 362-isPowerOfThree
     - 412-FizzBuzz
     - 461-hammingDistance
+    - 1009-bitwiseComplement
+    - 1037-isBoomerang
     - 1342-numberOfSteps
 
 ## 排序和搜索 
