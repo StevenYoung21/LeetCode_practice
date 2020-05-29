@@ -1,7 +1,7 @@
 # LeetCode_practice
 LeetCode算法练习
 
-## 数组类 （24）
+## 数组类 （25）
     - 1-twoSum
     - 26-removeDuplicates
     - 27-removeElement
@@ -21,6 +21,7 @@ LeetCode算法练习
     - 1010-numPairsDivisibleBy60
     - 1051-heightChecker
     - 1229-replaceElements
+    - 1295-findNumbers
     - 1431-kidsWithCandies
     - 1441-buildArray
     - 5412-busyStudent
@@ -28,7 +29,7 @@ LeetCode算法练习
     - mst-58-reverseLeftWords
     - mst-16.01-swapNumbers
 
-## 字符串 （13）
+## 字符串 （14）
     - 7-reverse
     - 14-longestCommonPrefix
     - 20-isValid
@@ -37,6 +38,7 @@ LeetCode算法练习
     - 242-isAnagram
     - 344-reverseString
     - 387-firstUniqChar
+    - 434-countSegments
     - 520-detectCapitalUse
     - 541-reverseStr
     - 557-reverseWords
@@ -63,5 +65,6 @@ LeetCode算法练习
     - 70-climbStairs
     - 121-maxProfit
     - 152-maxProduct
+    - 198-rob
 
 
