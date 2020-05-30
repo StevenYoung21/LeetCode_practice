@@ -45,7 +45,7 @@ LeetCode算法练习
     - 680-validPalindrome
     - 709-toLowerCase
     
-## 数学类 （10）
+## 数学类 （11）
     - 9-isPalindrome
     - 13-romanToInt
     - 67-addBinary
@@ -55,16 +55,19 @@ LeetCode算法练习
     - 461-hammingDistance
     - 1009-bitwiseComplement
     - 1037-isBoomerang
+    - 1154-dayOfYear
     - 1342-numberOfSteps
 
 ## 排序和搜索 
     - 88-merge
 
-## 动态规划 （4）
+## 动态规划 （7）
     - 53-maxSubArray
     - 70-climbStairs
     - 121-maxProfit
     - 152-maxProduct
     - 198-rob
+    - 322-coinChange
+    - 509-fib
 
 
