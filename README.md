@@ -29,7 +29,7 @@ LeetCode算法练习
     - mst-58-reverseLeftWords
     - mst-16.01-swapNumbers
 
-## 字符串 （14）
+## 字符串 （16）
     - 7-reverse
     - 14-longestCommonPrefix
     - 20-isValid
@@ -40,12 +40,14 @@ LeetCode算法练习
     - 387-firstUniqChar
     - 434-countSegments
     - 520-detectCapitalUse
+    - 521-findLUSlength
     - 541-reverseStr
     - 557-reverseWords
     - 680-validPalindrome
     - 709-toLowerCase
+    - 771-numJewelsInStones
     
-## 数学类 （11）
+## 数学类 （12）
     - 9-isPalindrome
     - 13-romanToInt
     - 67-addBinary
@@ -56,6 +58,7 @@ LeetCode算法练习
     - 1009-bitwiseComplement
     - 1037-isBoomerang
     - 1154-dayOfYear
+    - 1281-subtractProductAndSum
     - 1342-numberOfSteps
 
 ## 排序和搜索 
