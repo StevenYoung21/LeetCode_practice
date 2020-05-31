@@ -5,13 +5,22 @@
  */
 var hasAllCodes = function(s, k) {
 
-  let lenS = s.length;
-  let lenK = Math.pow(2,k) + 1;
+  let len = s.length;
 
-    return lenS >= lenK;
+  let left = 0;
+  let right = k;
+  let mySet = new Set();
+  
+  while( right <= len ){
+    mySet.add(s.substring(left,right));
+    left++;
+    right++;
+  }
 
+  let myArr = [...mySet];
+  return myArr.length == Math.pow(2,k);
 
 };
 
-var s= "00000000010011101", k = 4;
+var s= "00110110", k = 2;
 console.log(hasAllCodes(s,k));
