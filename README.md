@@ -1,5 +1,5 @@
 # LeetCode_practice
-LeetCode算法练习
+LeetCode 算法练习记录
 
 ## 数组类 （25）
     - 1-twoSum
